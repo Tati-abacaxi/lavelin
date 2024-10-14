@@ -1,0 +1,18 @@
+:root {
+    --headline-font: "Anton", sans-serif;
+    --default-font: "Poppins", sans-serif;
+    --handwritten-font: "Qwitcher Grypen", cursive;
+    --orange1: #FCC7A2;
+    --orange2: #FAA96C;
+    --orange3: #F99069;
+    --purple1: #A38FA3;
+    --purple2: #C8AAC9;
+    --purple3: #E1D7E8;
+    --pink1: #ECBEB4;
+    --pink2: #EBE1D6;
+    --pink3: #FEC7C5;
+  }
+
+  background {
+    color: var(--orange1)
+  }
